@@ -1,0 +1,4 @@
+TestCase,Username,Password,URL,AccountName,AccountType,Industry,Phone,Website
+AccountCreation1,testuser@example.com,password123,https://test.salesforce.com,Test Account 1,Customer - Direct,Technology,123-456-7890,https://www.testaccount1.com
+AccountCreation2,testuser@example.com,password123,https://test.salesforce.com,Test Account 2,Customer - Channel,Healthcare,987-654-3210,https://www.testaccount2.com
+AccountCreation3,testuser@example.com,password123,https://test.salesforce.com,Test Account 3,Prospect,Finance,555-123-4567,https://www.testaccount3.com

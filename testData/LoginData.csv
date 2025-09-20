@@ -1,0 +1,6 @@
+TestCase,Username,Password,URL,ExpectedResult
+ValidLogin,testuser@example.com,password123,https://test.salesforce.com,Success
+InvalidLogin,invalid@example.com,wrongpassword,https://test.salesforce.com,Failure
+EmptyCredentials,,,https://test.salesforce.com,Failure
+EmptyUsername,,password123,https://test.salesforce.com,Failure
+EmptyPassword,testuser@example.com,,https://test.salesforce.com,Failure
